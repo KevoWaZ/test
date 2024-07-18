@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 module.exports = {
     app: {
         token: process.env.DISCORD_TOKEN,
