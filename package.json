@@ -15,6 +15,7 @@
         "@evan/opus": "^1.0.3",
         "discord-player": "^6.6.10",
         "discord.js": "^14.13.0",
+        "dotenv": "^16.4.5",
         "ffmpeg-static": "^5.0.2",
         "ms": "^3.0.0-canary.1",
         "play-dl": "^1.9.6",
